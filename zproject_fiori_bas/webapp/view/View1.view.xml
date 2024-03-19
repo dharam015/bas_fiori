@@ -1,7 +1,7 @@
 <mvc:View controllerName="zprojectfioribas.controller.View1"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="{i18n>title} bug fix 1">
+    <Page id="page" title="bug fix 2 {i18n>title} bug fix 1">
         <content />
     </Page>
 </mvc:View>
